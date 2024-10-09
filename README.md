@@ -1,4 +1,6 @@
 <div align="center">
+
+Deom-online: https://huggingface.co/spaces/TencentARC/InstantMesh
   
 # InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
 
